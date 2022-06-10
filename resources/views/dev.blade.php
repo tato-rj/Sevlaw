@@ -7,8 +7,8 @@
             Site em breve no ar!
         </h2>
     </div>
-    <div class="position-absolute" style="bottom: 10px; right: 12px">
+{{--     <div class="position-absolute" style="bottom: 10px; right: 12px">
         <div class="text-muted" onclick="login()" style="cursor: pointer;" id="login">Log in</div>
-    </div>
+    </div> --}}
 </div>
 @endsection
