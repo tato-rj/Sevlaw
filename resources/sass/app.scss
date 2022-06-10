@@ -1,0 +1,17 @@
+// Fonts
+@import "~@fortawesome/fontawesome-free/css/all.min";
+// Variables
+@import 'variables';
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+@import 'custom_bs';
+@import 'brand';
+@import 'components/swiper';
+@import 'components/hamburger';
+
+.btn {
+	@extend .font-weight-bold;
+	border-width: 2.2px !important;
+	border-radius: 0!important;
+	font-size: inherit;
+}

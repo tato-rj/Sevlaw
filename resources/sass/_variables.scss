@@ -1,0 +1,10 @@
+$primary-color: rgb(16,47,137);
+$primary-color-light: lighten($primary-color, 10%);
+$primary-color-lightest: lighten($primary-color, 15%);
+
+$secondary-color: #1e1e1e;
+
+// Typography
+$font-family-sans-serif: 'Roboto', sans-serif;
+$font-size-base: 1rem;
+$line-height-base: 1.6;
