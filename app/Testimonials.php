@@ -7,7 +7,7 @@ class Testimonials
 	protected $testimonials = [
 		[
 			'author' => 'Paulo Paiva, CEO da BE CAPITAL', 
-			'content' => 'O Mariano & Villasanti nos assessorou em um momento crucial no desenvolvimento da nossa empresa para atuação no mercado de capitais. Recomendo sem pensar duas vezes!'
+			'content' => 'O Simões & Villasanti nos assessorou em um momento crucial no desenvolvimento da nossa empresa para atuação no mercado de capitais. Recomendo sem pensar duas vezes!'
 		],
 		[
 			'author' => 'Gustavo Lopes, CEO do Ensino+O2', 
@@ -27,7 +27,7 @@ class Testimonials
 		],
 		[
 			'author' => 'PRESENT POINT', 
-			'content' => 'O escritório Mariano & Villasanti participou de todo o processo desde o planejamento até o acompanhamento dos resultados da empresa. Sem dúvida foi uma escolha de sucesso!'
+			'content' => 'O escritório Simões & Villasanti participou de todo o processo desde o planejamento até o acompanhamento dos resultados da empresa. Sem dúvida foi uma escolha de sucesso!'
 		],
 		[
 			'author' => 'TECNOTOOLS', 
@@ -35,7 +35,7 @@ class Testimonials
 		],
 		[
 			'author' => 'Grupo Matta',
-			'content' => 'Toda equipe do Mariano & Villasanti prestam um excelente serviço jurídico a minha empresa. Com muito cuidado e zelo com os casos analisados, sinto que a relação com meus clientes e com a minha empresa não poderiam estar em melhores mãos. Profissional competente e de qualidade o qual indico a todas as empresas e clientes que buscam sempre o melhor para seus negócios e relações jurídicas em geral.'
+			'content' => 'Toda equipe do Simões & Villasanti prestam um excelente serviço jurídico a minha empresa. Com muito cuidado e zelo com os casos analisados, sinto que a relação com meus clientes e com a minha empresa não poderiam estar em melhores mãos. Profissional competente e de qualidade o qual indico a todas as empresas e clientes que buscam sempre o melhor para seus negócios e relações jurídicas em geral.'
 		]
 	];
 
