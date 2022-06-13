@@ -32,7 +32,7 @@ return [
 
     'social' => [
         'instagram' => 'https://www.instagram.com/simoesevillasanti/',
-        'whatsapp' => '21995352387',
+        'whatsapp' => ['raw' => 'https://wa.me/5521995352387', 'formatted' => '(21) 995352387'],
         // 'linkedin' => 'https://www.linkedin.com/company/villasanti-advocacia'
     ]
 

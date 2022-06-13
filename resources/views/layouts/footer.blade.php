@@ -16,7 +16,7 @@
 					<a href="{{mailto('Contato pelo website')}}" class="btn btn-lg btn-outline-light mb-4">Entre em contato com a nossa equipe</a>
 					<div class="d-flex justify-content-center">
 						<a href="{{social('instagram')}}" target="_blank" class="t-2">@fa(['fa_type' => 'b', 'icon' => 'instagram', 'size' => 'lg'])</a>
-						<a href="https://wa.me/{{social('whatsapp')}}" target="_blank" class="t-2">@fa(['fa_type' => 'b', 'icon' => 'whatsapp', 'size' => 'lg'])</a>
+						<a href="{{social('whatsapp.raw')}}" target="_blank" class="t-2">@fa(['fa_type' => 'b', 'icon' => 'whatsapp', 'size' => 'lg'])</a>
 					</div>
 				</div>
 				<div class="col-12 mx-auto text-center">
@@ -34,7 +34,7 @@
 				<div><small>© {{now()->year}} Todos os direitos reservados.</small></div>
 				<div class="d-flex">
 					<a href="{{social('instagram')}}" target="_blank" class="t-2">@fa(['fa_type' => 'b', 'icon' => 'instagram'])</a>
-					<a href="https://wa.me/{{social('whatsapp')}}" target="_blank" class="t-2">@fa(['fa_type' => 'b', 'icon' => 'whatsapp'])</a>
+					<a href="{{social('whatsapp.raw')}}" target="_blank" class="t-2">@fa(['fa_type' => 'b', 'icon' => 'whatsapp'])</a>
 				</div>
 			</div>
 		</div>
