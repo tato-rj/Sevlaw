@@ -31,8 +31,9 @@ return [
     ],
 
     'social' => [
-        'instagram' => 'https://www.instagram.com/marianoevillasanti/',
-        'linkedin' => 'https://www.linkedin.com/company/villasanti-advocacia'
+        'instagram' => 'https://www.instagram.com/simoesevillasanti/',
+        'whatsapp' => '(21) 995352387',
+        // 'linkedin' => 'https://www.linkedin.com/company/villasanti-advocacia'
     ]
 
 ];

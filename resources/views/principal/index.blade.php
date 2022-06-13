@@ -6,7 +6,7 @@
 @section('content')
 
   @include('principal.lead')
-  @include('principal.intro')
+  {{-- @include('principal.intro') --}}
   @include('principal.porque')
   @include('principal.quem')
   @include('principal.testimonials')
