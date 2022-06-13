@@ -9,7 +9,7 @@
 		<div class="container py-6">
 			<div class="row text-white">
 				<div class="col-lg-6 col-md-8 col-12 mx-auto text-center mb-3">
-					<img src="{{asset('images/brand/logo-full.svg')}}" style="width: 380px" class="mb-4">
+					<img src="{{asset('images/brand/logo-full.svg')}}" style="width: 380px; max-width: 100%;" class="mb-4">
 					<p class="opacity-6">Advocacia simplificada, ágil e livre de morosidade. Comunicação acessível e transparente. Você sempre saberá o que está acontecendo.</p>
 				</div>
 				<div class="col-12 text-center mb-4">
