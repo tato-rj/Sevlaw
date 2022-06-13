@@ -7,7 +7,7 @@
 		<p>O desenvolvimento de novos negócios de sucesso parte do princípio da criação de algo que seja capaz de fazer a diferença e transformar positivamente a vida de todos os envolvidos.</p>
 		<a href="{{mailto('Contato pelo website')}}" class="btn btn-lg btn-outline-dark mb-3">Vamos conversar?</a>
 			<div>
-				<a href="whatsapp://send?abid={{social('whatsapp')}}" target="_blank" class="t-2">@fa(['fa_type' => 'b', 'icon' => 'whatsapp', 'size' => 'lg']){{social('whatsapp')}}</a>
+				<a href="https://wa.me/{{social('whatsapp')}}" target="_blank" class="t-2">@fa(['fa_type' => 'b', 'icon' => 'whatsapp', 'size' => 'lg']){{social('whatsapp')}}</a>
 			</div>
 	</div>
 </div>
