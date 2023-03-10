@@ -43,4 +43,7 @@ Route::prefix('praticas')->name('praticas.')->group(function() {
     Route::get('family-business-law', function () {
         return view('praticas.family.index');
     })->name('family'); 
+    Route::get('pena-empresarial', function () {
+        return view('praticas.pena.index');
+    })->name('pena'); 
 });

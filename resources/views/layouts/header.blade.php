@@ -18,6 +18,7 @@
             <a class="dropdown-item text-white py-2" href="{{route('praticas.assessoria')}}">Assessoria e Consultoria Empresarial</a>
             <a class="dropdown-item text-white py-2" href="{{route('praticas.planejamento')}}">Planejamento de Negócios</a>
             <a class="dropdown-item text-white py-2" href="{{route('praticas.family')}}">Family Business Law</a>
+            <a class="dropdown-item text-white py-2" href="{{route('praticas.pena')}}">Penal Empresarial</a>
           </div>
         </li>
         <li class="nav-item">

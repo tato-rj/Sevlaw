@@ -84,8 +84,8 @@ return [
     */
 
     'from' => [
-        'address' => 'contato@marianoevillasanti.com.br',
-        'name' => 'Mariano&Villasanti',
+        'address' => 'contato@sevlaw.com.br',
+        'name' => 'Sevlaw',
     ],
 
     /*
